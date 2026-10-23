@@ -1,2 +1,5 @@
 # OrcaleMRX
 本 Mod 提供了一种简单便捷的方式，用于编辑和自定义《Rain World》中的迭代器（Iterator）。通过 JSON 脚本，用户可以灵活地调整和自定义迭代器，实现高度自由的个性化配置。  此外，本 Mod 还内置了 **OracleMRX** 图形化编辑界面，让用户能够更直观、便捷地修改相关配置，降低自定义迭代器的操作门槛。
+另外该项目还处在早期阶段，在严重功能完整之前不会有任何文件被上传
+Early Development Notice
+This project is still in its early stages. No files will be uploaded to the repository until the core features are substantially complete.
